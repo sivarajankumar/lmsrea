@@ -1,0 +1,1 @@
+Learning Management System (LMS) REA supports asynchronous learning from distance. The LMS is responsible for the co-ordination, the organization and materialization of all administrative operations concerning an eLearning programme or course which does not take place in real time.
